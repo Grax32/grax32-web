@@ -104,3 +104,12 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Angular build artifacts
+angular-app/dist/
+angular-app/.angular/
+angular-app/node_modules/
+
+# OS specific
+.DS_Store
+Thumbs.db
