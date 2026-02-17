@@ -1,0 +1,24 @@
+.home-intro {
+  text-align: center;
+  padding: 2rem 0;
+}
+
+.home-intro i {
+  font-size: 3rem;
+  color: #0066cc;
+}
+
+.home-intro h1 {
+  margin: 1rem 0;
+  font-size: 2.5rem;
+}
+
+.view-all-link {
+  font-weight: bold;
+  color: #0066cc;
+  text-decoration: none;
+}
+
+.view-all-link:hover {
+  text-decoration: underline;
+}

@@ -1,0 +1,602 @@
+[
+  {
+    "slug": "4-steps-to-more-effective-meetings-2",
+    "filename": "4-steps-to-more-effective-meetings-2.md",
+    "title": "4 Steps to More Effective Meetings",
+    "date": "",
+    "category": "team",
+    "tags": [],
+    "excerpt": "In my business, meetings are constantly happening. As a developer by nature, I tend to think I am not working when I am in a meeting but the truth is that these meetings are an essential part of the p..."
+  },
+  {
+    "slug": "4-steps-to-more-effective-meetings",
+    "filename": "4-steps-to-more-effective-meetings.md",
+    "title": "4 Steps to More Effective Meetings",
+    "date": "",
+    "category": "team",
+    "tags": [],
+    "excerpt": "In my business, meetings are constantly happening. As a developer by nature, I tend to think I am not working when I am in a meeting but the truth is that these meetings are an essential part of the p..."
+  },
+  {
+    "slug": "FakeDbSet-2",
+    "filename": "FakeDbSet-2.md",
+    "title": "A FakeDbSet that implements IDbSet and uses IList for data manipulation ",
+    "date": "",
+    "category": "archive",
+    "tags": [],
+    "excerpt": "A FakeDbSet that implements `IDbSet<T>` and uses `IList<T>` for data manipulation\n\n If you have ever tried to test code that depends on `DbSet<T>` or `IDbSet<T>` by creating a fake that implements `ID..."
+  },
+  {
+    "slug": "FakeDbSet",
+    "filename": "FakeDbSet.md",
+    "title": "A FakeDbSet that implements IDbSet and uses IList for data manipulation ",
+    "date": "",
+    "category": "archive",
+    "tags": [],
+    "excerpt": "A FakeDbSet that implements `IDbSet<T>` and uses `IList<T>` for data manipulation\n\n If you have ever tried to test code that depends on `DbSet<T>` or `IDbSet<T>` by creating a fake that implements `ID..."
+  },
+  {
+    "slug": "announcing-ffastmapper-release-052-2",
+    "filename": "announcing-ffastmapper-release-052-2.md",
+    "title": "Announcing fFastMapper release 0.5.2",
+    "date": "",
+    "category": "archive",
+    "tags": [],
+    "excerpt": "Announcing fFastMapper release 0.5.2. &nbsp;Get <a href=\"https://www.nuget.org/packages?q=ffastmapper\" target=\"_blank\">fFastMapper </a>from nuGet.<br />\n<br />\nfFastMapper is a component (like AutoMap..."
+  },
+  {
+    "slug": "announcing-ffastmapper-release-052",
+    "filename": "announcing-ffastmapper-release-052.md",
+    "title": "Announcing fFastMapper release 0.5.2",
+    "date": "",
+    "category": "archive",
+    "tags": [
+      "software",
+      "ffastmapper"
+    ],
+    "excerpt": "Announcing fFastMapper release 0.5.2. &nbsp;Get <a href=\"https://www.nuget.org/packages?q=ffastmapper\" target=\"_blank\">fFastMapper </a>from nuGet.<br />\n<br />\nfFastMapper is a component (like AutoMap..."
+  },
+  {
+    "slug": "announcing-hypermapper-release-05-2",
+    "filename": "announcing-hypermapper-release-05-2.md",
+    "title": "Announcing fFastMapper release 0.5",
+    "date": "",
+    "category": "archive",
+    "tags": [],
+    "excerpt": "fFastMapper&nbsp;is ready and available via NuGet. <br />\n<br />\nUse \"Install-Package fFastMapper\"<br />\n<br />\nfFastMapper&nbsp;is a component to map property values between objects. <br />\n<br />\n<u..."
+  },
+  {
+    "slug": "announcing-hypermapper-release-05",
+    "filename": "announcing-hypermapper-release-05.md",
+    "title": "Announcing fFastMapper release 0.5",
+    "date": "",
+    "category": "archive",
+    "tags": [
+      "software"
+    ],
+    "excerpt": "fFastMapper&nbsp;is ready and available via NuGet. <br />\n<br />\nUse \"Install-Package fFastMapper\"<br />\n<br />\nfFastMapper&nbsp;is a component to map property values between objects. <br />\n<br />\n<u..."
+  },
+  {
+    "slug": "announcing-subtractjs-2",
+    "filename": "announcing-subtractjs-2.md",
+    "title": "Announcing SubtractJS",
+    "date": "",
+    "category": "archive",
+    "tags": [],
+    "excerpt": "<h4>\nQuick Summary:</h4>\nSubtractJS is a layout assistant for HTML that makes it easy to mix fixed-width or fixed-height elements on the page edges with a re-sizable body. &nbsp;It is great for managi..."
+  },
+  {
+    "slug": "announcing-subtractjs",
+    "filename": "announcing-subtractjs.md",
+    "title": "Announcing SubtractJS",
+    "date": "",
+    "category": "archive",
+    "tags": [],
+    "excerpt": "<h4>\nQuick Summary:</h4>\nSubtractJS is a layout assistant for HTML that makes it easy to mix fixed-width or fixed-height elements on the page edges with a re-sizable body. &nbsp;It is great for managi..."
+  },
+  {
+    "slug": "azure-web-jobs-in-source-code",
+    "filename": "azure-web-jobs-in-source-code.md",
+    "title": "Azure Web Jobs in Source Code",
+    "date": "",
+    "category": "tech",
+    "tags": [],
+    "excerpt": "If you are hosting on Azure, you might have been introduced to WebJobs. WebJobs are great for performing background or batch tasks.\n\nWhen you do a deployment of an Azure WebJob, the job will end up in..."
+  },
+  {
+    "slug": "buying-and-updating-my-new-surface-rt-2",
+    "filename": "buying-and-updating-my-new-surface-rt-2.md",
+    "title": "Buying and Updating My New Surface RT Tablet",
+    "date": "",
+    "category": "archive",
+    "tags": [],
+    "excerpt": "<div>\nThis has been a great year for me for getting new or updated electronic devices. &nbsp;When I saw the Black Friday special for the $199 Surface RT 32GB, I decided it was time to buy.</div>\n<div>..."
+  },
+  {
+    "slug": "buying-and-updating-my-new-surface-rt",
+    "filename": "buying-and-updating-my-new-surface-rt.md",
+    "title": "Buying and Updating My New Surface RT Tablet",
+    "date": "",
+    "category": "archive",
+    "tags": [],
+    "excerpt": "<div>\nThis has been a great year for me for getting new or updated electronic devices. &nbsp;When I saw the Black Friday special for the $199 Surface RT 32GB, I decided it was time to buy.</div>\n<div>..."
+  },
+  {
+    "slug": "code-camp-code-for-fun-with-c-generics-2",
+    "filename": "code-camp-code-for-fun-with-c-generics-2.md",
+    "title": "Code Camp Code for Fun with C# Generics",
+    "date": "",
+    "category": "archive",
+    "tags": [],
+    "excerpt": "The source code from my Nebraska Code Camp presentation on Fun with C# Generics can be downloaded from <span class=\"outdated-link\">`https://sdrv.ms/119gDMP`</span>. &nbsp;This is a Visual Studio 2012 ..."
+  },
+  {
+    "slug": "code-camp-code-for-fun-with-c-generics",
+    "filename": "code-camp-code-for-fun-with-c-generics.md",
+    "title": "Code Camp Code for Fun with C# Generics",
+    "date": "",
+    "category": "archive",
+    "tags": [],
+    "excerpt": "The source code from my Nebraska Code Camp presentation on Fun with C# Generics can be downloaded from <span class=\"outdated-link\">`https://sdrv.ms/119gDMP`</span>. &nbsp;This is a Visual Studio 2012 ..."
+  },
+  {
+    "slug": "combining-function-expressions-in-c-2",
+    "filename": "combining-function-expressions-in-c-2.md",
+    "title": "Combining Function Expressions in C# using a ReplacementVisitor",
+    "date": "",
+    "category": "tech",
+    "tags": [],
+    "excerpt": "When working with expressions, I often want to combine multiple expressions into one. Using a ReplacementVisitor enables me to do that.\n\n## ReplacementVisitor\n\nReplacementVisitor is a memorable patter..."
+  },
+  {
+    "slug": "combining-function-expressions-in-c",
+    "filename": "combining-function-expressions-in-c.md",
+    "title": "Combining Function Expressions in C# using a ReplacementVisitor",
+    "date": "",
+    "category": "tech",
+    "tags": [],
+    "excerpt": "When working with expressions, I often want to combine multiple expressions into one. &nbsp;Using a ReplacementVisitor enables me to do that.<br />\n<h3>\nReplacementVisitor</h3>\nReplacementVisitor is a..."
+  },
+  {
+    "slug": "css-gotchas-part-1-2",
+    "filename": "css-gotchas-part-1-2.md",
+    "title": "Understanding the CSS Box Model",
+    "date": "",
+    "category": "tech",
+    "tags": [],
+    "excerpt": "TLDR: 2 CSS Gotchas today.  First, the default CSS box model will cause an overflow if a box contains 2 boxes that are each set to 50% of the outer box's height or width if either of the boxes contain..."
+  },
+  {
+    "slug": "css-gotchas-part-1",
+    "filename": "css-gotchas-part-1.md",
+    "title": "Understanding the CSS Box Model",
+    "date": "",
+    "category": "tech",
+    "tags": [],
+    "excerpt": "TLDR: 2 CSS Gotchas today.  First, the default CSS box model will cause an overflow if a box contains 2 boxes that are each set to 50% of the outer box's height or width if either of the boxes contain..."
+  },
+  {
+    "slug": "csslp-2017",
+    "filename": "csslp-2017.md",
+    "title": "Certified Secure Software Lifecycle Professional (CSSLP)  ",
+    "date": "",
+    "category": "opinion",
+    "tags": [
+      "coding",
+      "security",
+      "opinion"
+    ],
+    "excerpt": "I just received my official notification from ISC² that I am officially a Certified Secure Software Lifecycle Professional (CSSLP).  For those of you familiar with the CISSP, the CSSLP is related but ..."
+  },
+  {
+    "slug": "debugging-visual-studio-2013-code",
+    "filename": "debugging-visual-studio-2013-code.md",
+    "title": "Debugging Visual Studio 2013 Code Coverage with ILSpy",
+    "date": "",
+    "category": "archive",
+    "tags": [],
+    "excerpt": "So I am working on getting 100% code coverage for my tests on fFastMapper (My tool to do high-speed, precompiled mapping between 2 objects). &nbsp;The following method is a single line and was being c..."
+  },
+  {
+    "slug": "fFastInjector-Initial",
+    "filename": "fFastInjector-Initial.md",
+    "title": "fFastInjector - World's Fastest Dependency Injector",
+    "date": "",
+    "category": "archive",
+    "tags": [],
+    "excerpt": "<span style=\"color: red;\">(2013-6-16: See updated lifestyle section for details on singleton lifestyle)</span><br />\n<h2>\nWhat is it?</h2>\nfFastInjector is the world's fastest .NET dependency injector..."
+  },
+  {
+    "slug": "fast-array-fill-function-revisited",
+    "filename": "fast-array-fill-function-revisited.md",
+    "title": "Fast array fill function (revisited)",
+    "date": "",
+    "category": "tech",
+    "tags": [],
+    "excerpt": "Update: &nbsp;A reader ( <a href=\"https://github.com/mykohsu\" target=\"_blank\">Michael Hsu</a>&nbsp;)&nbsp;posted a faster improved version at&nbsp;<a href=\"https://github.com/mykohsu/Extensions/blob/m..."
+  },
+  {
+    "slug": "female-code-camp-speakers-2",
+    "filename": "female-code-camp-speakers-2.md",
+    "title": "Female Code Camp Speakers?",
+    "date": "",
+    "category": "opinion",
+    "tags": [],
+    "excerpt": "Yesterday was the first day of 4th annual Nebraska Code Camp. &nbsp;It is an opportunity for developers of all types to meet, learn, and network with each other.<br />\n<br />\nToday is the free portion..."
+  },
+  {
+    "slug": "female-code-camp-speakers",
+    "filename": "female-code-camp-speakers.md",
+    "title": "Female Code Camp Speakers?",
+    "date": "",
+    "category": "opinion",
+    "tags": [],
+    "excerpt": "Yesterday was the first day of 4th annual Nebraska Code Camp. &nbsp;It is an opportunity for developers of all types to meet, learn, and network with each other.<br />\n<br />\nToday is the free portion..."
+  },
+  {
+    "slug": "ffastinjector-101-is-here-brace-yourself",
+    "filename": "ffastinjector-101-is-here-brace-yourself.md",
+    "title": "fFastInjector 1.0.1 is here.  Brace yourself!",
+    "date": "",
+    "category": "archive",
+    "tags": [],
+    "excerpt": "fFastInjector 1.0.1 is here! &nbsp;(I skipped the 1.0.0 release since that programs with that version number always seems to have problems.)<br />\n<br />\n<h3>\n<a href=\"//4.bp.blogspot.com/-M10eCQqSx5E..."
+  },
+  {
+    "slug": "filter-pattern-for-linq-query-filter",
+    "filename": "filter-pattern-for-linq-query-filter.md",
+    "title": "Custom LINQ Filter Operators",
+    "date": "",
+    "category": "tech",
+    "tags": [],
+    "excerpt": "<div class=\"NoSpacing\">\nGenerics, expressions, and extension methods are amazing\nfeatures that open the doors to incredible new features and abilities in C#\n(and .NET in general).<br />\n<br />\n<h4>\nQu..."
+  },
+  {
+    "slug": "fun-with-c-generics-in-visual-studio",
+    "filename": "fun-with-c-generics-in-visual-studio.md",
+    "title": "Fun with C# Generics in Visual Studio 2010",
+    "date": "",
+    "category": "archive",
+    "tags": [],
+    "excerpt": "For those of you that need a Visual Studio 2010 version of the generics sample code from my Nebraska Code Camp presentation, you can download it from<br />\n<span class=\"outdated-link\">`https://sdrv.ms..."
+  },
+  {
+    "slug": "fun-with-generics-source-code",
+    "filename": "fun-with-generics-source-code.md",
+    "title": "Fun with Generic's Source Code",
+    "date": "",
+    "category": "tech",
+    "tags": [],
+    "excerpt": "Last night I gave a presentation about C# generics to the Lincoln .NET user's group. &nbsp;If you were there and want to see the code or if you weren't there and just want to see some interesting gene..."
+  },
+  {
+    "slug": "generic-tryparse",
+    "filename": "generic-tryparse.md",
+    "title": "Generic TryParse, convert string to any type",
+    "date": "",
+    "category": "tech",
+    "tags": [],
+    "excerpt": "I came up with this nifty little extension method today.  This method works in a similar fashion to TryParse but you can pass in any type.  You may want to throw an exception if converter == null, as ..."
+  },
+  {
+    "slug": "get-rid-of-bad-code-with-ndepend",
+    "filename": "get-rid-of-bad-code-with-ndepend.md",
+    "title": "Get Rid of Bad Code once and for all with nDepend 5",
+    "date": "",
+    "category": "archive",
+    "tags": [],
+    "excerpt": "<h3>\n<b>What is nDepend?</b></h3>\n<a href=\"//www.ndepend.com/\">nDepend</a> is a tool used for analyzing a .NET code base. &nbsp;It can find issues, track metrics, and create reports.<br />\n<br />\n<tab..."
+  },
+  {
+    "slug": "human-ai-collaboration",
+    "filename": "human-ai-collaboration.md",
+    "title": "Human-AI Collaboration in Modern Development",
+    "date": "2025-07-07",
+    "category": "tech",
+    "tags": [
+      "ai",
+      "collaboration",
+      "development",
+      "productivity",
+      "future-of-work"
+    ],
+    "excerpt": "As AI takes on a bigger role in software development, writing clean, understandable code isn’t just about helping other humans anymore — it’s about helping your **AI collaborators** do their job, too...."
+  },
+  {
+    "slug": "index",
+    "filename": "index.md",
+    "title": "Articles",
+    "date": "",
+    "category": " ",
+    "tags": [],
+    "excerpt": "<ul>\n    <li><a href=\"/art/dreamwalker-gallery/\">Dreamwalker Art Gallery</a> -- Art and Beauty</li>\n    <li><a href=\"tech\">Technology</a> -- Technical articles related to software development and depl..."
+  },
+  {
+    "slug": "initialize-array-to-value-in-c-very",
+    "filename": "initialize-array-to-value-in-c-very.md",
+    "title": "Method to Quickly Initialize All Elements of an Array to a Value",
+    "date": "",
+    "category": "tech",
+    "tags": [],
+    "excerpt": "Update 1: I decided to revisit this with a [a new blog post](/2013/06/fast-array-fill-function-revisited.html)\n\nUpdate 2: A reader ([Michael Hsu](https://github.com/mykohsu)) posted an improved versio..."
+  },
+  {
+    "slug": "kinect-sample-code-available",
+    "filename": "kinect-sample-code-available.md",
+    "title": "Kinect sample code available",
+    "date": "",
+    "category": "archive",
+    "tags": [],
+    "excerpt": "Here is the code the goes along with my January 25 presentation titled \"Augmented Reality with the Kinect\" at the Lincoln .NET Users Group.\n\nRemember to check the <span class=\"outdated-link\">`https://..."
+  },
+  {
+    "slug": "kinect-sample-code-from-code-camp",
+    "filename": "kinect-sample-code-from-code-camp.md",
+    "title": "Kinect sample code from Code Camp",
+    "date": "",
+    "category": "archive",
+    "tags": [],
+    "excerpt": "I have posted my code from Nebraska Code Camp.  The most significant change is that I am using shaders to merge the multiple layers I am creating.<br />\n<br />\nThe original way to merge the layers was..."
+  },
+  {
+    "slug": "nebraska-code-camp-2",
+    "filename": "nebraska-code-camp-2.md",
+    "title": "Nebraska Code Camp (2012)",
+    "date": "",
+    "category": "archive",
+    "tags": [],
+    "excerpt": "Don't miss my Nebraska Code Camp session on Augmented Reality with Microsoft's Kinect for Windows.  I will be talking about the commercial API for the Kinect.  (The description was written before the ..."
+  },
+  {
+    "slug": "nebraska-code-camp",
+    "filename": "nebraska-code-camp.md",
+    "title": "Nebraska Code Camp (2012)",
+    "date": "",
+    "category": "archive",
+    "tags": [],
+    "excerpt": "Don't miss my Nebraska Code Camp session on Augmented Reality with Microsoft's Kinect for Windows.  I will be talking about the commercial API for the Kinect.  (The description was written before the ..."
+  },
+  {
+    "slug": "notes-on-time-zones",
+    "filename": "notes-on-time-zones.md",
+    "title": "Notes on Time Zones",
+    "date": "",
+    "category": "tech",
+    "tags": [],
+    "excerpt": "<b>TLDR Version</b><br />\n<i>In your persistence medium, database or otherwise, convert all times to UTC before storing them, store all times as UTC, and convert on-the-fly to the user's local time zo..."
+  },
+  {
+    "slug": "on-success",
+    "filename": "on-success.md",
+    "title": "On Success",
+    "date": "",
+    "category": "team",
+    "tags": [],
+    "excerpt": "\"... the strikingly successful groups in America today share three traits that, together, propel success. The first is a superiority complex &#8212; a deep-seated belief  in their exceptionality. The ..."
+  },
+  {
+    "slug": "orderbystring-enables-string-search",
+    "filename": "orderbystring-enables-string-search.md",
+    "title": "OrderByString enables string search parameters in LINQ OrderBy clauses",
+    "date": "",
+    "category": "tech",
+    "tags": [],
+    "excerpt": "Here is something new to play with. &nbsp;I just released a package that adds commands for OrderBy that take strings for property name and direction.<br />\n<br />\n<div class=\"separator\" style=\"clear: ..."
+  },
+  {
+    "slug": "orlandos-melrose-technology-center-rocks-2",
+    "filename": "orlandos-melrose-technology-center-rocks-2.md",
+    "title": "Orlando's Giant Melrose Technology Center is a Maker's Paradise ",
+    "date": "",
+    "category": "opinion",
+    "tags": [],
+    "excerpt": "<style>\n.grax-content-pane h3 {\n clear: both;\n background: lightblue;\n display: block;\n margin: 10px;\n margin-left: 0px;\n padding-left: 10px;\n}\nh3.post-title{\n background: white;\n}\n</style>\n\n<div clas..."
+  },
+  {
+    "slug": "orlandos-melrose-technology-center-rocks",
+    "filename": "orlandos-melrose-technology-center-rocks.md",
+    "title": "Orlando's Giant Melrose Technology Center is a Maker's Paradise ",
+    "date": "",
+    "category": "opinion",
+    "tags": [],
+    "excerpt": "<style>\n.grax-content-pane h3 {\n clear: both;\n background: lightblue;\n display: block;\n margin: 10px;\n margin-left: 0px;\n padding-left: 10px;\n}\nh3.post-title{\n background: white;\n}\n</style>\n\n<div clas..."
+  },
+  {
+    "slug": "redirect-to-azure-web-jobs-in-source-code",
+    "filename": "redirect-to-azure-web-jobs-in-source-code.md",
+    "title": "Azure Web Jobs in Source Code",
+    "date": "",
+    "category": "",
+    "tags": [],
+    "excerpt": "..."
+  },
+  {
+    "slug": "response-to-ffastinjector-concerns",
+    "filename": "response-to-ffastinjector-concerns.md",
+    "title": "Response to fFastInjector concerns",
+    "date": "",
+    "category": "tech",
+    "tags": [],
+    "excerpt": "Below are some comments from Daniel de Palme's IOC Container performance benchmark and my responses.<br />\n<br />\n<a href=\"https://www.palmmedia.de/blog/2011/8/30/ioc-container-benchmark-performance-c..."
+  },
+  {
+    "slug": "resume-redirect",
+    "filename": "resume-redirect.md",
+    "title": "David Walker Resume",
+    "date": "",
+    "category": "",
+    "tags": [],
+    "excerpt": "..."
+  },
+  {
+    "slug": "safely-deal-with-impossible",
+    "filename": "safely-deal-with-impossible.md",
+    "title": "Future Proof Your Switch Statements",
+    "date": "",
+    "category": "tech",
+    "tags": [],
+    "excerpt": "I wanted to point out this little hidden coding gem from Ted Neward's column in the <a href=\"https://msdn.microsoft.com/en-us/magazine/dn781363.aspx\">September 2014 issue of MSDN Magazine</a>.<br />\n\n..."
+  },
+  {
+    "slug": "sony-hacking-who-screwed-up",
+    "filename": "sony-hacking-who-screwed-up.md",
+    "title": "Sony Hacking - Who Screwed Up",
+    "date": "",
+    "category": "opinion",
+    "tags": [],
+    "excerpt": "TLDR: Sony's leadership is setting the security bar too low for a Fortune 500 company and the result is repeated embarrassing hack attacks.<br />\n<br />\nPerhaps now Sony will get the message that thei..."
+  },
+  {
+    "slug": "specifying-and-accessing-webresource-to",
+    "filename": "specifying-and-accessing-webresource-to.md",
+    "title": "Specifying and using a WebResource to access embedded resources",
+    "date": "",
+    "category": "tech",
+    "tags": [],
+    "excerpt": "Adam Miller had a great <span class=\"outdated-link\">`https://blog.milrr.com/2011/12/aspnet-load-image-from-embedded.html#comment-form`</span> post on this blog about returning an embedded resource in ..."
+  },
+  {
+    "slug": "sql-server-timestamps-part-1",
+    "filename": "sql-server-timestamps-part-1.md",
+    "title": "SQL Server Timestamp/RowVersion - Part 1 Introduction",
+    "date": "",
+    "category": "tech",
+    "tags": [],
+    "excerpt": "Microsoft SQL Server's timestamp (aka rowversion) type has a long of confusing developers.\nThe name \"timestamp\" caused many to assume that there was some relationship to the date and/or time of the la..."
+  },
+  {
+    "slug": "sql-server-timestamps-part-2",
+    "filename": "sql-server-timestamps-part-2.md",
+    "title": "SQL Server Timestamp/RowVersion - Part 2 Optimistic Concurrency",
+    "date": "",
+    "category": "tech",
+    "tags": [],
+    "excerpt": "As we discussed in our previous [article](/articles/sql-server-timestamp-introduction), the SQL Server timestamp/rowversion type (rowversion is an alias for timestamp) is\nessentially a version number ..."
+  },
+  {
+    "slug": "string-templating-with-interpolation",
+    "filename": "string-templating-with-interpolation.md",
+    "title": "String templating with Interpolation Format Provider",
+    "date": "",
+    "category": "tech",
+    "tags": [],
+    "excerpt": "So I wrote this [other blog post](/2014/10/tiny-template-engine-pattern-that-you.html) about a templating pattern that I like for simplicity and that it is something I can remember. The response to it..."
+  },
+  {
+    "slug": "subtractjs-update",
+    "filename": "subtractjs-update.md",
+    "title": "SubtractJS Update",
+    "date": "",
+    "category": "archive",
+    "tags": [],
+    "excerpt": "Some of you already know how amazing SubtractJS 1.0 is, but now I have something else to add to it.  With SubtractJS 1.0.1, you can add an additional class \"sj-margin-box-model\" to make it easy to set..."
+  },
+  {
+    "slug": "t-sql-foreach-style-loop",
+    "filename": "t-sql-foreach-style-loop.md",
+    "title": "T-SQL ForEach style loop",
+    "date": "",
+    "category": "tech",
+    "tags": [],
+    "excerpt": "Here is a simple pattern that I came up with for executing a ForEach style loop in t-sql against a set of data in T-SQL.<br />\n<br />\n\n```sql\ndeclare @Enumerator table (id int)\n\ninsert into @Enumerato..."
+  },
+  {
+    "slug": "the-free-way-get-started-in-programming",
+    "filename": "the-free-way-get-started-in-programming.md",
+    "title": "The Free Way To Get Started In Programming ",
+    "date": "",
+    "category": "tech",
+    "tags": [],
+    "excerpt": "<h3>\nIntroduction</h3>\nAt our recent Code Camp, our keynote speaker was <a href=\"https://www.irisclasson.com/\">Iris Classon</a>. &nbsp;She told us the inspiring tale of her journey into software devel..."
+  },
+  {
+    "slug": "tiny-template-engine-pattern-that-you",
+    "filename": "tiny-template-engine-pattern-that-you.md",
+    "title": "Tiny Template Engine Pattern That You Can Remember",
+    "date": "",
+    "category": "tech",
+    "tags": [],
+    "excerpt": "<b>Edit</b>: Updated with working code samples for JavaScript and C#. &nbsp;See also string interpolation.<br />\n<br />\nLet's say you have a bunch of property values and you need a simple template eng..."
+  },
+  {
+    "slug": "trimming-all-strings-submitted-to-aspnet",
+    "filename": "trimming-all-strings-submitted-to-aspnet.md",
+    "title": "Trimming all strings submitted to ASP.NET",
+    "date": "",
+    "category": "tech",
+    "tags": [],
+    "excerpt": "<b>\"Usernames cannot end with a space.\" \nYou had the time to code that error message, but not the time to call trim()?</b><br />\n&nbsp; &nbsp;&nbsp;@shanselman<br />\n<br />\n&nbsp;In my C#/ASP.NET appl..."
+  },
+  {
+    "slug": "use-of-unassigned-local-variable-in-c",
+    "filename": "use-of-unassigned-local-variable-in-c.md",
+    "title": "Use of unassigned local variable in C#",
+    "date": "",
+    "category": "tech",
+    "tags": [],
+    "excerpt": "Here is a simple tip that you may not have run across yet.\n\n**TLDR**: Initialize a variable to null to indicate to the compiler that you plan to assign it later.\n\nSuppose you have a situation where yo..."
+  },
+  {
+    "slug": "why-hiding-is-bad-2",
+    "filename": "why-hiding-is-bad-2.md",
+    "title": "Understanding Hiding in C#",
+    "date": "",
+    "category": "tech",
+    "tags": [],
+    "excerpt": "Most of us have seen an error like the following:\n\n```\n 'DerivedClass.MyMethod()' hides inherited member 'BaseClass.MyMethod()'. Use the new keyword if hiding was intended.\n```\n\nbut many times we igno..."
+  },
+  {
+    "slug": "why-hiding-is-bad",
+    "filename": "why-hiding-is-bad.md",
+    "title": "Understanding Hiding in C#",
+    "date": "",
+    "category": "tech",
+    "tags": [],
+    "excerpt": "Most of us have seen an error like the following:\n\n```\n 'DerivedClass.MyMethod()' hides inherited member 'BaseClass.MyMethod()'. Use the new keyword if hiding was intended.\n```\n\nbut many times we igno..."
+  },
+  {
+    "slug": "why.is.ffastinjector.so.fast",
+    "filename": "why.is.ffastinjector.so.fast.md",
+    "title": "Why is fFastInjector so fast?  Is it thread-safe and otherwise safe?",
+    "date": "",
+    "category": "archive",
+    "tags": [],
+    "excerpt": "<h3>\nWhy is fFastInjector so fast?</h3>\nfFastInjector gets its speed from creative use of static variables within a generic static class, optimizer friendly coding, coding to do activities not related..."
+  },
+  {
+    "slug": "windows-phone-81-goodies-2",
+    "filename": "windows-phone-81-goodies-2.md",
+    "title": "Windows Phone 8.1 Goodies",
+    "date": "",
+    "category": "archive",
+    "tags": [],
+    "excerpt": "Two of my favorite features in Windows Phone 8.1 are the hands-free texting and the Word Flow Keyboard.<br />\n<br />\nWith hands-free texting, I can reply to an incoming text without touching or lookin..."
+  },
+  {
+    "slug": "windows-phone-81-goodies",
+    "filename": "windows-phone-81-goodies.md",
+    "title": "Windows Phone 8.1 Goodies",
+    "date": "",
+    "category": "archive",
+    "tags": [],
+    "excerpt": "Two of my favorite features in Windows Phone 8.1 are the hands-free texting and the Word Flow Keyboard.<br />\n<br />\nWith hands-free texting, I can reply to an incoming text without touching or lookin..."
+  },
+  {
+    "slug": "working-kinect-sample-code-available-2",
+    "filename": "working-kinect-sample-code-available-2.md",
+    "title": "Working Kinect sample code available",
+    "date": "",
+    "category": "archive",
+    "tags": [],
+    "excerpt": "When the commercial API came out, I found that they had made quite a few changes.  I am sure they are mostly good changes but they broke my previous sample code.  Here is the new WPF sample code, unfo..."
+  },
+  {
+    "slug": "working-kinect-sample-code-available",
+    "filename": "working-kinect-sample-code-available.md",
+    "title": "Working Kinect sample code available",
+    "date": "",
+    "category": "archive",
+    "tags": [],
+    "excerpt": "When the commercial API came out, I found that they had made quite a few changes.  I am sure they are mostly good changes but they broke my previous sample code.  Here is the new WPF sample code, unfo..."
+  }
+]

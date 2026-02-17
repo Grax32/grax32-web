@@ -1,0 +1,30 @@
+<div class="page context-page">
+  <div *ngIf="loading" class="page-content page-general">
+    Loading...
+  </div>
+
+  <div *ngIf="notFound" class="page-content page-general">
+    <h3>Post Not Found</h3>
+    <p>The requested article could not be found.</p>
+  </div>
+
+  <div *ngIf="!loading && post" class="page-content page-general">
+    <div class="page-title page-general">
+      <h3>{{ post.title }}</h3>
+    </div>
+
+    <div class="page-byline page-general">
+      <span *ngIf="post.date">{{ post.date | date }}</span>
+      <span *ngIf="post.category"> • {{ post.category }}</span>
+    </div>
+
+    <div class="article-content">
+      <markdown [data]="content"></markdown>
+    </div>
+
+    <div class="article-tags" *ngIf="post.tags && post.tags.length > 0">
+      <strong>Tags:</strong>
+      <span *ngFor="let tag of post.tags" class="tag">{{ tag }}</span>
+    </div>
+  </div>
+</div>
