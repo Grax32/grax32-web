@@ -1,0 +1,25 @@
+<div class="page context-page">
+  <div class="page-content page-general">
+    <div class="home-intro">
+      <i class='fas fa-laptop-code'></i>
+      <h1>Art • Science • Love</h1>
+      
+      <p style="font-size: 1.5rem;">
+        Welcome to my personal website where I share my thoughts on software development, 
+        technology, and various other topics.
+      </p>
+    </div>
+
+    <h3><a routerLink="/articles">Recent Articles</a></h3>
+    <ul>
+      <li *ngFor="let post of featuredPosts">
+        <a [routerLink]="['/articles', post.slug]">{{ post.title }}</a>
+        <span *ngIf="post.date"> - {{ post.date | date }}</span>
+      </li>
+    </ul>
+
+    <p>
+      <a routerLink="/articles" class="view-all-link">View all articles →</a>
+    </p>
+  </div>
+</div>

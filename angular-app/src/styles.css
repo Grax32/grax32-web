@@ -1,0 +1,536 @@
+/* Global styles */
+@import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css);
+
+/* You can add global styles to this file, and also import other style files */
+/****
+webImport: true,
+minify: true
+****/
+
+/*******************************************************************************
+Slate Theme for GitHub Pages
+by Jason Costello, @jsncostello
+Modified
+*******************************************************************************/
+
+/*******************************************************************************
+MeyerWeb Reset
+*******************************************************************************/
+
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font: inherit;
+    vertical-align: baseline;
+}
+
+/* HTML5 display-role reset for older browsers */
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+    display: block;
+}
+
+body {
+    line-height: 1;
+}
+
+blockquote,
+q {
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+a:focus {
+    outline: none;
+}
+
+/*******************************************************************************
+Theme Styles
+*******************************************************************************/
+
+body {
+    box-sizing: border-box;
+    color: #373737;
+    background: #212121;
+    font-size: 16px;
+    font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 10px 0;
+    font-weight: 700;
+    color: #222222;
+    font-family: 'Lucida Grande', 'Calibri', Helvetica, Arial, sans-serif;
+    letter-spacing: -1px;
+}
+
+h1 {
+    font-size: 36px;
+    font-weight: 700;
+}
+
+h2 {
+    padding-bottom: 10px;
+    font-size: 32px;
+    background:  repeat-x bottom;
+}
+
+h3 {
+    font-size: 24px;
+}
+
+h4 {
+    font-size: 21px;
+}
+
+h5 {
+    font-size: 18px;
+}
+
+h6 {
+    font-size: 16px;
+}
+
+p {
+    margin: 10px 0 15px 0;
+}
+
+footer p {
+    color: #f2f2f2;
+}
+
+a {
+    text-decoration: none;
+    color: #007edf;
+    text-shadow: none;
+
+    transition: color 0.5s ease;
+    transition: text-shadow 0.5s ease;
+    -webkit-transition: color 0.5s ease;
+    -webkit-transition: text-shadow 0.5s ease;
+    -moz-transition: color 0.5s ease;
+    -moz-transition: text-shadow 0.5s ease;
+    -o-transition: color 0.5s ease;
+    -o-transition: text-shadow 0.5s ease;
+    -ms-transition: color 0.5s ease;
+    -ms-transition: text-shadow 0.5s ease;
+}
+
+a:hover,
+a:focus {
+    text-decoration: underline;
+}
+
+footer a {
+    color: #f2f2f2;
+    text-decoration: underline;
+}
+
+em {
+    font-style: italic;
+}
+
+strong {
+    font-weight: bold;
+}
+
+img {
+    position: relative;
+    margin: 0 auto;
+    max-width: 739px;
+    padding: 5px;
+    margin: 10px 0 10px 0;
+    border: 1px solid #ebebeb;
+
+    box-shadow: 0 0 5px #ebebeb;
+    -webkit-box-shadow: 0 0 5px #ebebeb;
+    -moz-box-shadow: 0 0 5px #ebebeb;
+    -o-box-shadow: 0 0 5px #ebebeb;
+    -ms-box-shadow: 0 0 5px #ebebeb;
+}
+
+p img {
+    display: inline;
+    margin: 0;
+    padding: 0;
+    vertical-align: middle;
+    text-align: center;
+    border: none;
+}
+
+pre,
+code {
+    width: 100%;
+    color: #222;
+    background-color: #fff;
+
+    font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+    font-size: 14px;
+
+    border-radius: 2px;
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+}
+
+pre {
+    width: 100%;
+    padding: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, .1);
+    overflow: auto;
+}
+
+code {
+    padding: 3px;
+    margin: 0 3px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, .1);
+}
+
+pre code {
+    display: block;
+    box-shadow: none;
+}
+
+blockquote {
+    color: #666;
+    margin-bottom: 20px;
+    padding: 0 0 0 20px;
+    border-left: 3px solid #bbb;
+}
+
+ul,
+ol,
+dl {
+    margin-bottom: 15px
+}
+
+ul {
+    list-style-position: inside;
+    list-style: disc;
+    padding-left: 20px;
+}
+
+ol {
+    list-style-position: inside;
+    list-style: decimal;
+    padding-left: 20px;
+}
+
+dl dt {
+    font-weight: bold;
+}
+
+dl dd {
+    padding-left: 20px;
+    font-style: italic;
+}
+
+dl p {
+    padding-left: 20px;
+    font-style: italic;
+}
+
+hr {
+    height: 1px;
+    margin-bottom: 5px;
+    border: none;
+    background:  repeat-x center;
+}
+
+table {
+    border: 1px solid #373737;
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+th {
+    font-family: 'Lucida Grande', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    padding: 10px;
+    background: #373737;
+    color: #fff;
+}
+
+td {
+    padding: 10px;
+    border: 1px solid #373737;
+}
+
+form {
+    background: #f2f2f2;
+    padding: 20px;
+}
+
+/*******************************************************************************
+Full-Width Styles
+*******************************************************************************/
+
+.page {
+    width: 100%;
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+/*******************************************************************************
+Header Styles
+*******************************************************************************/
+
+.page-banner {
+    width: 100%;
+    height: 150px;
+    overflow: hidden;
+    position: relative;
+}
+
+.page-banner .overflow {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 80px;
+    background: linear-gradient(to bottom, transparent, #212121);
+}
+
+.page-header-author-image {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.page-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 0;
+    background: #212121;
+}
+
+.page-tag-left-box,
+.page-tag-right-box {
+    flex: 1;
+}
+
+.page-tag-text {
+    padding: 0 20px;
+}
+
+.page-tag-text img {
+    max-width: 300px;
+    height: auto;
+    border: none;
+    box-shadow: none;
+    padding: 0;
+    margin: 0;
+}
+
+.page-nav {
+    background: #2e2e2e;
+    padding: 15px;
+    text-align: center;
+    color: #fff;
+}
+
+.page-nav a {
+    color: #fff;
+    text-decoration: none;
+    padding: 0 10px;
+}
+
+.page-nav a:hover {
+    color: #007edf;
+}
+
+/*******************************************************************************
+Content Styles
+*******************************************************************************/
+
+.context-page {
+    background: #f2f2f2;
+    padding: 20px;
+}
+
+.page-general {
+    padding: 20px;
+}
+
+.page-title {
+    text-align: center;
+}
+
+.page-byline {
+    text-align: center;
+    color: #666;
+    margin-bottom: 20px;
+}
+
+.page-content {
+    background: #fff;
+    padding: 30px;
+    border-radius: 5px;
+}
+
+/*******************************************************************************
+Footer Styles
+*******************************************************************************/
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background: #2e2e2e;
+    color: #fff;
+}
+
+/*******************************************************************************
+Tile Collection Styles
+*******************************************************************************/
+
+.tile-collection {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.tile-item {
+    flex: 1 1 calc(33.333% - 20px);
+    min-width: 250px;
+    background: #fff;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.tile-title {
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.tile-menu {
+    margin: 10px 0;
+}
+
+.tile-menu a {
+    margin-right: 10px;
+}
+
+.tile-description {
+    color: #666;
+}
+
+/*******************************************************************************
+Share Block Styles
+*******************************************************************************/
+
+.share-block {
+    text-align: center;
+    margin: 30px 0;
+}
+
+.share-link {
+    margin: 0 10px;
+    font-size: 1.5rem;
+    cursor: pointer;
+}
+
+.tag-link {
+    display: inline-block;
+    margin: 0 5px;
+}

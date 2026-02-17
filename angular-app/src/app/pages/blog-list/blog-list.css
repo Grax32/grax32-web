@@ -1,0 +1,43 @@
+.article-item {
+  margin-bottom: 2rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid #eee;
+}
+
+.article-item h4 {
+  margin-bottom: 0.5rem;
+}
+
+.article-item h4 a {
+  color: #333;
+  text-decoration: none;
+}
+
+.article-item h4 a:hover {
+  color: #0066cc;
+}
+
+.article-meta {
+  color: #666;
+  font-size: 0.9rem;
+  margin-bottom: 0.5rem;
+}
+
+.article-excerpt {
+  color: #555;
+  line-height: 1.6;
+}
+
+.article-tags {
+  margin-top: 1rem;
+}
+
+.tag {
+  display: inline-block;
+  background: #f0f0f0;
+  padding: 0.25rem 0.5rem;
+  margin-right: 0.5rem;
+  border-radius: 3px;
+  font-size: 0.85rem;
+  color: #666;
+}

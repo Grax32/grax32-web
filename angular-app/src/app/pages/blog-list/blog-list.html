@@ -1,0 +1,27 @@
+<div class="page context-page">
+  <div class="page-title page-general">
+    <h3>Articles</h3>
+  </div>
+
+  <div class="page-content page-general">
+    <div *ngIf="loading">Loading articles...</div>
+    
+    <div *ngIf="!loading && posts.length === 0">No articles found.</div>
+    
+    <div *ngIf="!loading && posts.length > 0" class="articles-list">
+      <article *ngFor="let post of posts" class="article-item">
+        <h4>
+          <a [routerLink]="['/articles', post.slug]">{{ post.title }}</a>
+        </h4>
+        <div class="article-meta">
+          <span *ngIf="post.date">{{ post.date | date }}</span>
+          <span *ngIf="post.category"> • {{ post.category }}</span>
+        </div>
+        <p class="article-excerpt">{{ post.excerpt }}</p>
+        <div class="article-tags" *ngIf="post.tags && post.tags.length > 0">
+          <span *ngFor="let tag of post.tags" class="tag">{{ tag }}</span>
+        </div>
+      </article>
+    </div>
+  </div>
+</div>
